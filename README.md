@@ -2,4 +2,4 @@
 
 Eu sou Beatriz Lirios, gosto muito de tecnologia e desenvolvimento. Aqui você encontrará o que me motiva, meus aprendizados e as soluções criativas que desenvolvo no dia a dia. 💻✨
 
-![Animação da cobrinha](https://github.com/beatrizprojetos/beatrizprojetos/raw/output/github-contribution-grid-snake.svg)
+![Animação da cobrinha](https://github.com/bBeatrizProjetos/BeatrizProjetos/raw/output/github-contribution-grid-snake.svg)
